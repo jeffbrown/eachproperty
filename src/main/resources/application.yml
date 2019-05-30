@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: eachproperty
+demo:
+  widget:
+    small:
+      description: This Is A Small Widget
+    large:
+      description: This Is A Large Widget
